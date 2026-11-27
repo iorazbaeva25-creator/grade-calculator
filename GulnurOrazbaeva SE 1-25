@@ -1,0 +1,25 @@
+# Grade Calculator
+
+A simple console program for teachers. The teacher enters a student's name and 5 scores, and the program shows the student's average and grade. It works for several students in one run.
+
+## Requirements
+- The program shall ask the teacher to enter a student's name or the word "end" to finish.
+- The program shall accept exactly 5 scores for each student, each a whole number from 0 to 100.
+- The program shall show an error message and ask again if a score is not a whole number from 0 to 100.
+- The program shall calculate the average of the 5 scores and assign a grade.
+- The program shall show the number of students entered and the class average after the teacher types "end".
+
+## Grading scale
+| Grade | Average |
+|-------|---------|
+| A | 90 - 100 |
+| B | 75 - 89.99 |
+| C | 60 - 74.99 |
+| F | below 60 |
+
+## How to run
+1. Open https://www.onlinegdb.com and choose C++.
+2. Paste the code from main.cpp and click Run.
+
+## Author
+Your name, group
